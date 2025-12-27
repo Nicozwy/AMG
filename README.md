@@ -1,3 +1,3 @@
-# AMG dataset & HHCF Framework
+# AMG dataset & HHCF framework
 
 Coming soon ...
