@@ -1,3 +1,3 @@
-# MGCD
+# AMG dataset
 
 Coming soon ...
