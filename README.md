@@ -1,4 +1,4 @@
-| Title | Clickbait | Coarse-grained | Fine-grained |
+| Title | Binary classification | Coarse-grained classification | Fine-grained classification |
 | :--- | :---: | :--- | :--- |
 | **Chinese:** 英威腾：4月17日将召开2024年度网上业绩说明会<br>**English:** Invt: 2024 Annual Online Performance Briefing to be held on April 17th | No | / | / |
 | **Chinese:** 宁德时代创始股东减持致市值蒸发千亿<br>**English:** Stake reduction by a founding shareholder causes CATL’s market cap to plummet by 100 billion RMB | Yes | Number | Single Number |
